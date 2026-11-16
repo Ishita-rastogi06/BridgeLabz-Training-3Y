@@ -1,0 +1,32 @@
+/* Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fffaf3;
+}
+
+/* Restaurant Heading */
+header {
+    background-color: #4b2920 !important;
+}
+
+/* Specials List */
+.special-list {
+    max-width: 600px;
+}
+
+.list-group-item {
+    padding: 15px;
+    font-size: 17px;
+}
+
+/* Food Image */
+.food-image {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* Footer */
+footer {
+    margin-top: 30px;
+}
